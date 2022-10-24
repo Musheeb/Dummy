@@ -6,3 +6,4 @@ function newfunction(a,b){
 
 console.log(a);
 
+const new_var = "this is extra line";
